@@ -1,0 +1,3 @@
+[submodule "node-simple-app"]
+	path = node-simple-app
+	url = https://github.com/Magicianred/node-simple-app
